@@ -11,7 +11,7 @@ related_publications: false
 ## Datasets
 
 <div class="col-md-8" style="height: auto;">
-    We have built several datasets for sentiment analysis and emotion analysis. However, my previous <a href="https://www.cs.rochester.edu/u/qyou">homepage</a> has been deleted by URCS. I try my best to recover those datasets from other partially backup locations. Hopefully, this may offer some help for those who are interested in using these datasets for their research.
+    We have built several datasets for sentiment analysis and emotion analysis. However, my previous homepage has been deleted by URCS. I try my best to recover those datasets from other partially backup locations. Hopefully, this may offer some help for those who are interested in using these datasets for their research.
     <ul>
     <li>
         <strong>Sentiment Analysis</strong><br/>
