@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Quanzeng You",
+    "label": "Computer Vison Researcher",
+    "image": "",
+    "email": "quanzeng.you@outlook.com",
+    "url": "https://qzyou.github.io/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Quanzeng You",
+        "url": "https://www.linkedin.com/in/quanzeng-you-5b98a55a/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ByteDance",
+      "position": "Research Scientist",
+      "url": "https://www.bytedance.com/",
+      "startDate": "2023-05-15",
+      "endDate": "now",
+      "summary": "Working on Multimodal Large Language Modeling.",
+      "highlights": ["MLLM", "Computer Vision", "Reasoning"]
+    },
+    {
+      "name": "Microsoft",
+      "position": "Principal Researcher",
+      "url": "https://www.microsoft.com/",
+      "startDate": "2017-10-02",
+      "endDate": "2023-05-13",
+      "summary": "Working on 3D Multi-camera Multiple Object Tracking using RGBD sensors",
+      "highlights": ["MoT", "3D", "RGBD"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Vison",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Semantic Learning",
+        "Multimodal Learning",
+        "Object Detection",
+        "Multi-Object Tracking",
+        "Segmentation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor Jiebo Luo",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ]
+}
