@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Survey on Multimodal Reasoning 
+title: A Survey on Multimodal Reasoning
 description: A Comprehensive  Survey on Multimodal Reasoning
 img: assets/img/mmreasoning/tree.png
 importance: 3
@@ -9,9 +9,11 @@ related_publications: false
 ---
 
 ## Reasoning categories
+
 In this paper, we focus on the reasoning abilities of Multimodal Large Language Models. The reasoning methods employed by these models fall under the category of informal reasoning. This is primarily because they utilize natural language to articulate the steps and conclusions involved in the reasoning process and they allow a certain degree of inaccuracy in their reasoning mechanisms. This paper primarily focuses on three reasoning types: **deductive reasoning**, **abductive reasoning**, and **analogical reasoning**. These types are highlighted due to their prevalent application in real-world reasoning tasks, particularly within the scope of current MLLMs.
 
 ## MLLMs Summarization
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mmreasoning/tree.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -45,5 +47,6 @@ In this work, we present the different types of reasoning and discuss the models
 Our survey aims to provide a better understanding of our current standing in this research direction and hopes to inspire further exploration into the reasoning abilities of future work.
 
 # Links
+
 [Arxiv](https://arxiv.org/pdf/2401.06805.pdf)
 [HuggingFace](https://huggingface.co/papers/2401.06805)

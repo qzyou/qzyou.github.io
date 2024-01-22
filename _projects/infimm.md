@@ -8,8 +8,6 @@ category: MLLM
 related_publications: false
 ---
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
     </div>
@@ -21,6 +19,7 @@ related_publications: false
 </div>
 
 ## Overview
+
 InfiMM, inspired by the Flamingo architecture, sets itself apart with unique training data and diverse large language models (LLMs). This approach allows InfiMM to maintain the core strengths of Flamingo while offering enhanced capabilities. As the premier open-sourced variant in this domain, InfiMM excels in accessibility and adaptability, driven by community collaboration. It's more than an emulation of Flamingo; it's an innovation in visual language processing.
 
 Our model is another attempt to produce the result reported in the paper "Flamingo: A Large-scale Visual Language Model for Multimodal Understanding" by DeepMind. Compared with previous open-sourced attempts ([OpenFlamingo](https://github.com/mlfoundations/open_flamingo) and [IDEFIC](https://huggingface.co/blog/idefics), InfiMM offers a more flexible models, allowing for a wide range of applications. In particular, InfiMM integrates the latest LLM models into VLM domain the reveals the impact of LLMs with different scales and architectures.
@@ -28,6 +27,7 @@ Our model is another attempt to produce the result reported in the paper "Flamin
 Please note that InfiMM is currently in beta stage and we are continuously working on improving it.
 
 ## Model Details
+
 - **Developed by**: Institute of Automation, Chinese Academy of Sciences and ByteDance
 - **Model Type**: Visual Language Model (VLM)
 - **Language**: English
@@ -70,6 +70,9 @@ In our analysis, we concentrate on two primary benchmarks for evaluating MLLMs: 
 ## Links
 
 ### [Project HomePage](https://huggingface.co/Infi-MM)
+
 ### [infimm-zephyr](https://huggingface.co/Infi-MM/infimm-zephyr)
+
 ### [infimm-llama13b](https://huggingface.co/Infi-MM/infimm-llama13b)
+
 ### [infimm-vicuna13b](https://huggingface.co/Infi-MM/infimm-vicuna13b)

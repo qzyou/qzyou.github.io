@@ -10,7 +10,6 @@ related_publications: false
 
 ## Introduction
 
-
 Working at Microsoft Azure Computer Vision Science team. We collaborate with other teams on Real-time Computer Vision Spatial Analysis.
 
 ## Demo

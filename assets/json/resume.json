@@ -57,13 +57,7 @@
     {
       "name": "Computer Vison",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Semantic Learning",
-        "Multimodal Learning",
-        "Object Detection",
-        "Multi-Object Tracking",
-        "Segmentation"
-      ]
+      "keywords": ["Semantic Learning", "Multimodal Learning", "Object Detection", "Multi-Object Tracking", "Segmentation"]
     }
   ],
   "references": [
