@@ -4,7 +4,11 @@ title: project 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
+<<<<<<< HEAD
 category: work
+=======
+category: fun
+>>>>>>> main
 related_publications: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-01-17 16:11:00-0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Check out our findings on Visual Instruction Fine-tuning: [COCO is "ALL" You Need for Visual Instruction Fine-tuning](https://arxiv.org/abs/2401.08968)
