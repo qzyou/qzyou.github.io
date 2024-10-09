@@ -69,10 +69,10 @@ In our analysis, we concentrate on two primary benchmarks for evaluating MLLMs: 
 
 ## Links
 
-### [Project HomePage](https://huggingface.co/Infi-MM)
+[Project HomePage](https://huggingface.co/Infi-MM)
 
-### [infimm-zephyr](https://huggingface.co/Infi-MM/infimm-zephyr)
+[infimm-zephyr](https://huggingface.co/Infi-MM/infimm-zephyr)
 
-### [infimm-llama13b](https://huggingface.co/Infi-MM/infimm-llama13b)
+[infimm-llama13b](https://huggingface.co/Infi-MM/infimm-llama13b)
 
-### [infimm-vicuna13b](https://huggingface.co/Infi-MM/infimm-vicuna13b)
+[infimm-vicuna13b](https://huggingface.co/Infi-MM/infimm-vicuna13b)
