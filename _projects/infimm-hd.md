@@ -19,8 +19,9 @@ related_publications: false
 </div>
 
 ## Overview
-InfiMM-HD, a novel architecture specifically designed for processing images of different resolutions with low computational overhead. This innovation facilitates the enlargement of MLLMs to higher-resolution capabilities. 
-InfiMM-HD incorporates a cross-attention module and visual windows to reduce computation costs. By integrating this architectural design with a four-stage training pipeline, our model attains improved visual perception efficiently and cost-effectively. 
+
+InfiMM-HD, a novel architecture specifically designed for processing images of different resolutions with low computational overhead. This innovation facilitates the enlargement of MLLMs to higher-resolution capabilities.
+InfiMM-HD incorporates a cross-attention module and visual windows to reduce computation costs. By integrating this architectural design with a four-stage training pipeline, our model attains improved visual perception efficiently and cost-effectively.
 Empirical study underscores the robustness and effectiveness of InfiMM-HD, opening new avenues for exploration in related areas.
 
 ## Model Details
@@ -28,6 +29,5 @@ Empirical study underscores the robustness and effectiveness of InfiMM-HD, openi
 - **Developed by**: Institute of Automation, Chinese Academy of Sciences and ByteDance
 - **Model Type**: Visual Language Model (VLM)
 - **Language**: English
-
 
 ## [Github Repo](https://github.com/InfiMM/mllm-hd)
